@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { AuthProvider } from './components/context/AuthProvider';  // ✅ Fixed: Changed from AuthProvider to AuthContext
+import { AuthProvider } from './components/context/AuthProvider';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './components/Home';

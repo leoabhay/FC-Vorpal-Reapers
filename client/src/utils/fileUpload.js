@@ -29,4 +29,3 @@ export const handleFileSelect = async (file) => {
     throw new Error('Error reading file', error);
   }
 };
-
