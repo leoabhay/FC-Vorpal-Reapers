@@ -1,4 +1,4 @@
-# FC-Vorpal-Reapers
+FC Vorpal Reapers - https://vorpalreapers.netlify.app/
 Football team (my imaginary team) fullstack site using MERN
 
 <img width="1621" height="882" alt="vorpal" src="https://github.com/user-attachments/assets/e6787a87-8a1a-4e61-b6f7-dfa8be615932" />
